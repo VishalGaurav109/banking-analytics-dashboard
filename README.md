@@ -8,12 +8,12 @@ The goal is to uncover insights related to customer activity, spending behavior,
 ⸻
 
 Key Features
-	•	💰 Total Spend Analysis (571M+)
-	•	📈 Monthly Spending Trend (2010–2019)
-	•	👥 Active Users Identification (1219 users)
-	•	📊 Average Transaction Value Analysis
-	•	🏆 Top 10 High-Value Customers
-	•	💳 Card Type Spending Distribution
+	•	Total Spend Analysis (571M+)
+	•	Monthly Spending Trend (2010–2019)
+	•	Active Users Identification (1219 users)
+	•	Average Transaction Value Analysis
+	•	Top 10 High-Value Customers
+	•	Card Type Spending Distribution
 
 ⸻
 
