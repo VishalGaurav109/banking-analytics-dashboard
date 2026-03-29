@@ -26,6 +26,8 @@ The goal is to uncover insights related to customer activity, spending behavior,
 
 📊 Dashboard Preview
 
+https://github.com/VishalGaurav109/banking-analytics-dashboard/blob/main/Banking%20transaction%20Analytics.pdf
+
 📈 Key Insights
 	•	Only ~60% of users are actively transacting → potential growth opportunity
 	•	Debit cards contribute the majority of total transaction volume
