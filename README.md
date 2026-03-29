@@ -1,13 +1,13 @@
-📊 Banking Transaction Analytics Dashboard
+Banking Transaction Analytics Dashboard
 
-📌 Overview
+Overview
 
 This project presents an end-to-end analysis of large-scale banking transaction data (13M+ records).
 The goal is to uncover insights related to customer activity, spending behavior, and high-value users using SQL and Power BI.
 
 ⸻
 
-🚀 Key Features
+Key Features
 	•	💰 Total Spend Analysis (571M+)
 	•	📈 Monthly Spending Trend (2010–2019)
 	•	👥 Active Users Identification (1219 users)
@@ -17,18 +17,18 @@ The goal is to uncover insights related to customer activity, spending behavior,
 
 ⸻
 
-🛠 Tech Stack
+Tech Stack
 	•	SQL (MySQL) → Data cleaning, transformation, aggregation
 	•	Power BI → Data visualization and dashboard creation
 	•	CSV → Data storage and transfer
 
 ⸻
 
-📊 Dashboard Preview
+Dashboard Preview
 
 https://github.com/VishalGaurav109/banking-analytics-dashboard/blob/main/Banking%20transaction%20Analytics.pdf
 
-📈 Key Insights
+Key Insights
 	•	Only ~60% of users are actively transacting → potential growth opportunity
 	•	Debit cards contribute the majority of total transaction volume
 	•	Spending trends show steady growth with periodic fluctuations
@@ -36,7 +36,7 @@ https://github.com/VishalGaurav109/banking-analytics-dashboard/blob/main/Banking
 
 ⸻
 
-🧠 Approach
+Approach
 	1.	Imported and cleaned 13M+ transaction records in MySQL
 	2.	Handled data quality issues (currency formatting, nulls, structure)
 	3.	Performed SQL-based aggregation for KPIs and insights
@@ -45,14 +45,14 @@ https://github.com/VishalGaurav109/banking-analytics-dashboard/blob/main/Banking
 
 ⸻
 
-📂 Project Structure
+Project Structure
 	•	banking_dashboard.pbix → Power BI dashboard file
 	•	queries.sql → SQL queries used for analysis
 	•	dashboard.png → Dashboard screenshot
 
 ⸻
 
-💼 Business Use Case
+Business Use Case
 
 This dashboard helps stakeholders:
 	•	Monitor transaction trends over time
@@ -62,7 +62,7 @@ This dashboard helps stakeholders:
 
 ⸻
 
-🔥 Highlights
+Highlights
 	•	Processed 13M+ records (large dataset handling)
 	•	Built end-to-end analytics pipeline
 	•	Combined SQL + Power BI effectively
